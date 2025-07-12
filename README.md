@@ -1,5 +1,4 @@
 # Random Forest Classifier for Methylation Markers
-
 This code discovering methylation markers using Random Forest.
 
 ## Requirements
@@ -12,7 +11,7 @@ This code discovering methylation markers using Random Forest.
 - output: `.txt` files with accuracy, AUC, sensitivity, and specificity for each marker
 
 ## How to Run
-In Code Ocean, set `main.R` as the entry point.
+- set `main.R` as the entry point.
 
 ## Output
 - Performance metrics written for each marker
