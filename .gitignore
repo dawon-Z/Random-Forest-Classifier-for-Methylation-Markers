@@ -1,0 +1,14 @@
+# Ignore R session files
+*.RData
+*.Rhistory
+.Rproj.user/
+
+# Ignore data and results
+/data/input.txt
+/results/
+
+# Optional: exclude large files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
